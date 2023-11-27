@@ -1,0 +1,5 @@
+C:\Users\caleb\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/caleb/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Nova -B D:\Nova\cmake-build-debug
+Setting up project for x64-Windows!
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Nova/cmake-build-debug
