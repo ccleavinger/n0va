@@ -1,3 +1,0 @@
-D:/Nova/cmake-build-debug/CMakeFiles/n0va.dir
-D:/Nova/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Nova/cmake-build-debug/CMakeFiles/rebuild_cache.dir

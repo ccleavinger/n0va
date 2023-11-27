@@ -1,0 +1,6 @@
+*.sln
+*.vcxproj
+*.vcxproj.user
+C++/
+bin/
+__pychache__/
